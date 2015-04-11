@@ -1,4 +1,3 @@
-# sola-razvijanja-android-aplikacij-6
 sola-razvijanja-android-aplikacij-5
 =================================
 
